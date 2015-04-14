@@ -5,7 +5,7 @@
 (add-to-list 'load-path "~/.emacs.d/elisp/")
 (add-to-list 'load-path "~/.emacs.d/llvm-emacs/")
 ;; For the perforce and Emacs Integration.
-(load-library "p4")
+;(load-library "p4")
 
 (require 'color-theme)
 ;(require 'sr-speedbar)
